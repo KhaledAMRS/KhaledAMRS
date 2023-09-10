@@ -1,8 +1,15 @@
 <h1 align="center">Hello folks 👋</h1>
-<h3 align="center">My name is khaled Ramadan & I'm a sotware tester 🧐 </h3>
+
+## Software testing snacks 🍟🍹
+<h3 align="left">* Manual testing</h3>
+<h3 align="left">* API testing</h3>
+<h3 align="left">* Automation testing</h3>
+<h3 align="left">* Technical testing</h3>
+ 
 
 
 
+  
 <!--
 **KhaledAMRS/KhaledAMRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
