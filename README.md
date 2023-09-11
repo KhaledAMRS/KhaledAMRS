@@ -1,11 +1,5 @@
 <h1 align="center">Hello folks 👋</h1>
 
-## Software testing snacks 🍟🍹
-<h3 align="left">* Manual testing</h3>
-<h3 align="left">* API testing</h3>
-<h3 align="left">* Automation testing</h3>
-<h3 align="left">* Technical testing</h3>
- 
 
 
 
