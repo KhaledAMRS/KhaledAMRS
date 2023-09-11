@@ -1,14 +1,12 @@
 <h1 align="center">Hello folks 🙌 </h1>
 <h4>My name is Khaled Ramadan, I'm a software testing enthusiast 🤓. I would like to share with you a guide to my github repositories</h4>
-
-
-<h4>
-<p>How to start learning Selenium Automation even if you don't have prior knowledge of programming<br>
-</h4>
-
+<h5>
+How to start learning Selenium Automation even if you don't have prior knowledge about programming<br>
+</h5>
 
 
 
+Write this on your blog: my main purpose of creating this blog is to help you to uplift your testing skills by strengthen your testing basics and simplfy the higher level topics to communicate the complex topics in a very simple manner
 
 
   
