@@ -1,5 +1,5 @@
 <h1 align="center">Hello folks 🙌 </h1>
-<h1 align="center">My name is Khaled Ramadan and I'm a software testing enthusiast 🤓</h1>
+<h3 align="center">My name is Khaled Ramadan and I'm a software testing enthusiast 🤓</h3>
 
 
 
