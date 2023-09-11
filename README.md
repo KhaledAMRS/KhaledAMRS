@@ -1,9 +1,10 @@
 <h1 align="center">Hello folks 🙌 </h1>
-<h4>
-<p>My name is Khaled Ramadan, I'm a software testing enthusiast 🤓<br>
-I would like to share with you a guide to my github repositories<br>
-</h4>
+<h4>My name is Khaled Ramadan, I'm a software testing enthusiast 🤓. I would like to share with you a guide to my github repositories</h4>
 
+
+<h4>
+<p>How to start learning Selenium Automation even if you don't have prior knowledge of programming<br>
+</h4>
 
 
 
