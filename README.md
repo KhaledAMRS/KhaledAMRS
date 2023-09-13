@@ -1,7 +1,7 @@
 <h1 align="center">Comming soon. under construction 🔭</h1>
-<h1 align="center">Hello folks 🙌 </h1>
 
 <!--
+<h1 align="center">Hello folks 🙌 </h1>
 
 <h4>My name is Khaled Ramadan, I'm a software testing enthusiast 🤓. I would like to share with you a guide to my github repositories</h4>
 <h5>
