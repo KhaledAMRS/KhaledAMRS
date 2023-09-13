@@ -6,8 +6,6 @@ How to start learning Selenium Automation even if you don't have prior knowledge
 
 
 
-Write this on your blog: my main purpose of creating this blog is to help you to uplift your testing skills by strengthen your testing basics and simplfy the higher level topics to communicate the complex topics in a very simple manner
-
 
   
 <!--
