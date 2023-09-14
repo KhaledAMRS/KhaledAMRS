@@ -12,7 +12,7 @@ How to start learning Selenium Automation even if you don't have prior knowledge
 <!--
 <h1 align="center">Hello folks 👋, My name is khaled ramadan</h1>
 
-## I'm a software testing enthusiast 🤓 and I would like to share my knowledge in different software testing fields 
+## I'm a software testing enthusiast asassa :face_with_monocle: 🤓 and I would like to share my knowledge in different software testing fields 
 * Manual Testing Snacks
 * Automation Project guidelines
 * Technical testing tips and tricks 
