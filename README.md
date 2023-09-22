@@ -1,6 +1,52 @@
-<h1 align="center">Comming soon. under construction 🔭</h1>
+<h1 align="center">Software Automation Tester</h1>
+
+<p align="center">
+  <img src="path_to_your_profile_image.png" alt="Profile Image">
+</p>
+
+<p align="center">
+  Hi there! I'm a Software Automation Tester with expertise in Java, Selenium, Appium, TestNG, Cucumber, Postman, Git, GitHub, and Jenkins. I have a passion for ensuring software quality through robust automation frameworks and continuous integration practices.
+</p>
+
+## Skills
+
+- **Programming Languages:** Java
+- **Test Automation Tools:** Selenium, Appium
+- **Testing Frameworks:** TestNG, Cucumber
+- **API Testing:** Postman
+- **Version Control Systems:** Git, GitHub
+- **Continuous Integration/Deployment:** Jenkins
+
+## Projects
+
+- **Project 1:** Brief description of the project and your contributions.
+- **Project 2:** Brief description of the project and your contributions.
+
+## Experience
+
+- **Company Name, Position** (Dates)
+  - Description of your responsibilities and achievements.
+
+## Education
+
+- **Degree**, Major/Field of Study, University/College (Year)
+
+## Certifications
+
+- Certification 1
+- Certification 2
+
+## Contact
+
+- Email: your_email@example.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+
+Feel free to reach out to me if you have any questions or collaboration opportunities. I'm always eager to connect with fellow professionals in the industry!
 
 <!--
+
+<h1 align="center">Comming soon. under construction 🔭</h1>
+
 <h1 align="center">Hello folks 🙌 </h1>
 
 <h4>My name is Khaled Ramadan, I'm a software testing enthusiast 🤓. I would like to share with you a guide to my github repositories</h4>
