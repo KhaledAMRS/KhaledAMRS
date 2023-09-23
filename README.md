@@ -22,6 +22,9 @@
   <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" width="50" height="50">
 
 - **Testing Frameworks:** TestNG, Cucumber
+
+    <img src="https://iconduck.com/icons/94191/cucumber" width="50" height="50">  <!-- https://iconduck.com/icons/94191/cucumber -->
+
 - **API Testing:** Postman
 - **Version Control Systems:** Git, GitHub
 - **Continuous Integration/Deployment:** Jenkins
