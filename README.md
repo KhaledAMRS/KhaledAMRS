@@ -30,8 +30,13 @@
 
   [![Skills](https://skillicons.dev/icons?i=postman&theme=light)](https://skillicons.dev)
 
-- **Version Control Systems:** Git, GitHub
-- **Continuous Integration/Deployment:** Jenkins
+- **Version Control Systems**
+
+  [![Skills](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev)
+
+- **Continuous Integration/Deployment**
+
+  [![Skills](https://skillicons.dev/icons?i=jenkins&theme=light)](https://skillicons.dev)
 
 ## Projects
 
