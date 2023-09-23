@@ -23,7 +23,7 @@
 
 - **Testing Frameworks:** TestNG, Cucumber
 
-    <img src="https://iconduck.com/icons/94191/cucumber" width="50" height="50">  <!-- https://iconduck.com/icons/94191/cucumber -->
+    <img src="./.github/cucumber.svg#cucumber" width="50" height="50">  <!-- https://iconduck.com/icons/94191/cucumber -->
 
 - **API Testing:** Postman
 - **Version Control Systems:** Git, GitHub
