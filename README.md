@@ -18,7 +18,7 @@
 - **Test Automation Tools:**
 
   [![Skills](https://skillicons.dev/icons?i=selenium&theme=light)](https://skillicons.dev)
-  [![Skills](./.github/appium.svg#appium=20x20)](./.github/appium.svg)
+  <img src="./.github/appium.svg#appium" width="20" height="20">
 
 - **Testing Frameworks:** TestNG, Cucumber
 - **API Testing:** Postman
