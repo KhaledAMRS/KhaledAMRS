@@ -12,7 +12,8 @@
 ## Skills
 
 - **Programming Languages:** [![Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
-- **Test Automation Tools:** [![Skills](https://skillicons.dev/icons?i=selenium,appium&theme=light)](https://skillicons.dev)Selenium, Appium
+- **Test Automation Tools:** [![Skills](https://skillicons.dev/icons?i=selenium&theme=light)](https://skillicons.dev)Selenium, Appium
+- **Hello** [![Skills](https://iconduck.com/icons/27036/appium?shared)](https://iconduck.com)
 - **Testing Frameworks:** TestNG, Cucumber
 - **API Testing:** Postman
 - **Version Control Systems:** Git, GitHub
