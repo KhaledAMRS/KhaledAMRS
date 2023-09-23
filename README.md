@@ -1,11 +1,12 @@
 <h1 align="center">Software Automation Tester</h1>
 
 <p align="center">
-  <img src="path_to_your_profile_image.png" alt="Profile Image">
+<!--  <img src="path_to_your_profile_image.png" alt="Profile Image">  -->
 </p>
 
 <p align="center">
-  Hi there! I'm a Software Automation Tester with expertise in Java, Selenium, Appium, TestNG, Cucumber, Postman, Git, GitHub, and Jenkins. I have a passion for ensuring software quality through robust automation frameworks and continuous integration practices.
+  Hi there 🙌! 
+  My name is Khaled and I'm a Software Automation Tester with expertise in Java, Selenium, Appium, TestNG, Cucumber, Postman, Git, GitHub, and Jenkins. I have a passion for ensuring software quality through robust automation frameworks and continuous integration practices.
 </p>
 
 ## Skills
@@ -21,7 +22,7 @@
 
 - **Project 1:** Brief description of the project and your contributions.
 - **Project 2:** Brief description of the project and your contributions.
-
+<!--
 ## Experience
 
 - **Company Name, Position** (Dates)
@@ -35,7 +36,7 @@
 
 - Certification 1
 - Certification 2
-
+-->
 ## Contact
 
 - Email: your_email@example.com
