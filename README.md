@@ -18,6 +18,7 @@
 - **Test Automation Tools:**
 
   [![Skills](https://skillicons.dev/icons?i=selenium&theme=light)](https://skillicons.dev)
+    [![Skills](./.github/appium.svg#appium)]
   <p align="center"><img align="center" src="./.github/appium.svg#appium"/></p>
 
 - **Testing Frameworks:** TestNG, Cucumber
