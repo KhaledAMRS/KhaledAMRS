@@ -12,8 +12,9 @@
 ## Skills
 
 - **Programming Languages:**
-  [![Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
 <br>
+  [![Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
+</br>
 - **Test Automation Tools:** [![Skills](https://skillicons.dev/icons?i=selenium&theme=light)](https://skillicons.dev)Selenium, Appium
 - **Hello** [![Skills](https://iconduck.com/icons/27036/appium?shared)](https://iconduck.com)
 - **Testing Frameworks:** TestNG, Cucumber
