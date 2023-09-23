@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Hi there 🙌! 
+  Hi there 🙌! <br>
   My name is Khaled and I'm a Software Automation Tester with expertise in Java, Selenium, Appium, TestNG, Cucumber, Postman, Git, GitHub, and Jenkins. I have a passion for ensuring software quality through robust automation frameworks and continuous integration practices.
 </p>
 
