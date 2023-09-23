@@ -11,7 +11,10 @@
 
 ## Skills
 
-- **Programming Languages:** Java
+- **Programming Languages:**
+
+  [![Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
+
 - **Test Automation Tools:** Selenium, Appium
 - **Testing Frameworks:** TestNG, Cucumber
 - **API Testing:** Postman
@@ -40,8 +43,8 @@
 ## Contact
 
 - Email: khaled.ramadan.qa@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/khaled-ashraf-ramadan/)
-- Blogger: [Your blogspot Profile](https://qa-snacks.blogspot.com/)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/khaled-ashraf-ramadan/)
+- Blogger: [My Blogger](https://qa-snacks.blogspot.com/)
 
 Feel free to reach out to me if you have any questions or collaboration opportunities. I'm always eager to connect with fellow professionals in the industry!
 
