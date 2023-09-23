@@ -15,7 +15,14 @@
 
   [![Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
 
+<<<<<<< HEAD
 - **Test Automation Tools:** Selenium, Appium
+=======
+- **Test Automation Tools:**
+
+  [![Skills](https://skillicons.dev/icons?i=selenium&theme=light)](https://skillicons.dev)
+  
+>>>>>>> bb5c48385ecf20228dde0101eefb75c8bf96a903
 - **Testing Frameworks:** TestNG, Cucumber
 - **API Testing:** Postman
 - **Version Control Systems:** Git, GitHub
