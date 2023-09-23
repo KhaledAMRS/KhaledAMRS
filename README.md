@@ -39,8 +39,9 @@
 -->
 ## Contact
 
-- Email: your_email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- Email: khaled.ramadan.qa@gmail.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/khaled-ashraf-ramadan/)
+- Blogger: [Your blogspot Profile](https://qa-snacks.blogspot.com/)
 
 Feel free to reach out to me if you have any questions or collaboration opportunities. I'm always eager to connect with fellow professionals in the industry!
 
