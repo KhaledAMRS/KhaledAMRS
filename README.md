@@ -11,22 +11,25 @@
 
 ## Skills
 
-- **Programming Languages:**
+- **Programming Languages**
 
   [![Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
 
-- **Test Automation Tools:**
+- **Test Automation Tools**
 
   [![Skills](https://skillicons.dev/icons?i=selenium&theme=light)](https://skillicons.dev)
   <img src="./.github/appium.svg#appium" width="50" height="50">  <!-- https://iconduck.com/icons/27036/appium -->
   <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" width="50" height="50">
 
-- **Testing Frameworks:** TestNG, Cucumber
+- **Testing Frameworks** TestNG, Cucumber
 
-    <img src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" width="70" height="70">
+    <img src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" width="80" height="80">
     <img src="./.github/cucumber.svg#cucumber" width="50" height="50">  <!-- https://iconduck.com/icons/94191/cucumber -->
-    
-- **API Testing:** Postman
+
+- **API Testing**
+
+  [![Skills](https://skillicons.dev/icons?i=postman&theme=light)](https://skillicons.dev)
+
 - **Version Control Systems:** Git, GitHub
 - **Continuous Integration/Deployment:** Jenkins
 
