@@ -11,8 +11,8 @@
 
 ## Skills
 
-- **Programming Languages:** Java [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
-- **Test Automation Tools:** Selenium, Appium
+- **Programming Languages:** [![Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
+- **Test Automation Tools:** [![Skills](https://skillicons.dev/icons?i=selenium,appium&theme=light)](https://skillicons.dev)Selenium, Appium
 - **Testing Frameworks:** TestNG, Cucumber
 - **API Testing:** Postman
 - **Version Control Systems:** Git, GitHub
