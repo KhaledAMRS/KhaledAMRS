@@ -11,12 +11,25 @@
 
 ## Skills
 
-  [![Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)  [![Skills](https://skillicons.dev/icons?i=selenium&theme=light)](https://skillicons.dev)  <img src="./.github/appium.svg#appium" width="50" height="50">  <!-- https://iconduck.com/icons/27036/appium -->  <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" width="50" height="50">  <img src="./.github/cucumber.svg#cucumber" width="50" height="50">  <!-- https://iconduck.com/icons/94191/cucumber -->  [![Skills](https://skillicons.dev/icons?i=postman&theme=light)](https://skillicons.dev)  [![Skills](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev)  [![Skills](https://skillicons.dev/icons?i=jenkins&theme=light)](https://skillicons.dev)  <img src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" width="80" height="80">
+  [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)  [![Skills](https://skillicons.dev/icons?i=selenium&theme=light)](https://skillicons.dev)  <img src="./.github/appium.svg#appium" width="50" height="50">  <!-- https://iconduck.com/icons/27036/appium -->  <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" width="50" height="50">  <img src="./.github/cucumber.svg#cucumber" width="50" height="50">  <!-- https://iconduck.com/icons/94191/cucumber -->  [![Skills](https://skillicons.dev/icons?i=postman&theme=light)](https://skillicons.dev)  [![Skills](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev)  [![Skills](https://skillicons.dev/icons?i=jenkins&theme=light)](https://skillicons.dev)  <img src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" width="80" height="80">
 
 ## Projects
-#### WebUI Automation Projects using Selenium + Java
-- **Project 1:** Brief description of the project and your contributions.
-- **Project 2:** Brief description of the project and your contributions.
+#### WebUI Automation Projects using Selenium + Java | Beginner level
+**[Ch1_Java_Principles](https://github.com/KhaledAMRS/A_Java_Principles)** If you have no prior programming experience, this project will provide you a beignner-friendly introduction to Java.
+  - Package, class
+  - Data types & Variables
+  - Methods
+  - Objects
+  - Access Modifiers
+  
+**Ch2_Java_Principles** I
+  - Package, class
+  - Data types & Variables
+  - Methods
+  - Objects
+  - Access Modifiers
+
+
 <!--
 ## Experience
 
