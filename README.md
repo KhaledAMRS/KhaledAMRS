@@ -12,7 +12,7 @@
 
 ## Skills
 
-  [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)  [![Skills](https://skillicons.dev/icons?i=selenium&theme=light)](https://skillicons.dev)  <img src="./.github/appium.svg#appium" width="50" height="50">  <!-- https://iconduck.com/icons/27036/appium -->  <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" width="50" height="50">  <img src="./.github/cucumber.svg#cucumber" width="50" height="50">  <!-- https://iconduck.com/icons/94191/cucumber -->  [![Skills](https://skillicons.dev/icons?i=postman&theme=light)](https://skillicons.dev)  [![Skills](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev)  [![Skills](https://skillicons.dev/icons?i=jenkins&theme=light)](https://skillicons.dev)  <img src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" width="80" height="80">
+![Java](https://skillicons.dev/icons?i=java&theme=light) ![Selenium](https://skillicons.dev/icons?i=selenium&theme=light) <img src="./.github/appium.svg#appium" width="50" height="50">  <!-- https://iconduck.com/icons/27036/appium -->  <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" width="50" height="50">  <img src="./.github/cucumber.svg#cucumber" width="50" height="50">  <!-- https://iconduck.com/icons/94191/cucumber --> ![Postman](https://skillicons.dev/icons?i=postman&theme=light) ![git](https://skillicons.dev/icons?i=git&theme=light) ![jenkins](https://skillicons.dev/icons?i=jenkins&theme=light) <img src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" width="80" height="80">
 
 ## Projects
 ### WebUI Automation Projects using Selenium + Java | Beginner level
@@ -43,6 +43,16 @@
 
 - Certification 1
 - Certification 2
+-->
+
+<--! 
+Add these Achievements later
+How many business modules & features are tested: .
+How many release are managed: .
+How many repositories using frameworks like hybrid: 
+How many automation scripts :
+How many API requests
+Quick description of the project + Readme link on github
 -->
 ## Contact
 
