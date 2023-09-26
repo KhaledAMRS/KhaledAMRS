@@ -49,10 +49,8 @@
 Add these Achievements later
 How many business modules & features are tested: .
 How many release are managed: .
-How many repositories using frameworks like hybrid: 
-How many automation scripts :
-How many API requests
-Quick description of the project + Readme link on github
+Automation projects:
+API projects:
 -->
 ## Contact
 
