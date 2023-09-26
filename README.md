@@ -45,7 +45,7 @@
 - Certification 2
 -->
 
-<--! 
+<!-- 
 Add these Achievements later
 How many business modules & features are tested: .
 How many release are managed: .
