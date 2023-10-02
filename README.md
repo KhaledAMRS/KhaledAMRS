@@ -28,7 +28,7 @@
 ## Manual Projects
 #### [Online Shopping](https://drive.google.com/drive/u/1/folders/1cNXJePxI67Ti1JHbUM3cMqh5L1Vd4-zk)
 #### [Social Community](https://drive.google.com/drive/u/1/folders/1snHZaKji4ixf7gSCwIQyCEtJ-vlHVHTA)
-#### [Game Activities](https://drive.google.com/drive/u/1/folders/1zdTlF_fh4CgQpW8XZkUE_aZkFhHS_hR5)
+#### [Gaming Activities](https://drive.google.com/drive/u/1/folders/1zdTlF_fh4CgQpW8XZkUE_aZkFhHS_hR5)
 #### [Users](https://drive.google.com/drive/u/1/folders/19GtYBESn_gBIljXo2Lx6voZfPRE_egdd)
 #### [Stock Investment](https://drive.google.com/drive/u/1/folders/1IVdhNAhAoHfn7pfyqG_KtoeSfFTlISRG)
 
