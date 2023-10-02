@@ -10,7 +10,7 @@
 
 ![Java](https://skillicons.dev/icons?i=java&theme=light) ![Selenium](https://skillicons.dev/icons?i=selenium&theme=light) <img src="./.github/appium.svg#appium" width="50" height="50">  <!-- https://iconduck.com/icons/27036/appium -->  <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" width="50" height="50">  <img src="./.github/cucumber.svg#cucumber" width="50" height="50">  <!-- https://iconduck.com/icons/94191/cucumber --> ![Postman](https://skillicons.dev/icons?i=postman&theme=light) ![git](https://skillicons.dev/icons?i=git&theme=light) ![jenkins](https://skillicons.dev/icons?i=jenkins&theme=light) <img src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" width="80" height="80">
 
-## Projects
+## Automation Projects
 ### WebUI Automation Projects using Selenium + Java | Beginner level
 **[Ch1_Java_Principles](https://github.com/KhaledAMRS/A_Java_Principles)** If you have no prior programming experience, this project will provide you a beginner-friendly for Java fundamentals such as: packages, classes, data types and variables, methods, objects, constructor, access modifiers.
   
@@ -23,6 +23,11 @@
 **[Ch5_Selenium_Commands](https://github.com/KhaledAMRS/E_Selenium_Commands)** Inside view on Selenium commands: Browser navigation | get browser information | interacting with WebElement | get WebElement Information | get WebElement status | static and dynamic dropdown list | what's By, WebElement, List<WebElement> | findElement and findElements.
 
 **[Ch6_Selenium_Commands_Part_2](https://github.com/KhaledAMRS/F_Selenium_Commands_Part_2)** Continue learning Selenium commands: Difference between implicitly & explicitly | mouse hover action | handle multiple windows | difference between quit and close command.
+
+
+## Manual Projects
+### Online shopping
+Features: 
 
 ## Contact
 
