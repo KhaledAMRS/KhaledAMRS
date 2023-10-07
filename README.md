@@ -23,8 +23,9 @@ https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796#:~:text=L
 
 **[Ch5_Selenium_Commands](https://github.com/KhaledAMRS/E_Selenium_Commands)** Inside view on Selenium commands: Browser navigation | get browser information | interacting with WebElement | get WebElement Information | get WebElement status | static and dynamic dropdown list | what's By, WebElement, List<WebElement> | findElement and findElements.
 
+<!--
 **[Ch6_Selenium_Commands_Part_2](https://github.com/KhaledAMRS/F_Selenium_Commands_Part_2)** Continue learning Selenium commands: Difference between implicitly & explicitly | mouse hover action | handle multiple windows | difference between quit and close command.
-
+-->
 
 ## Manual Projects
 #### [User Management](https://drive.google.com/drive/u/1/folders/19GtYBESn_gBIljXo2Lx6voZfPRE_egdd)
