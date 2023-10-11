@@ -31,8 +31,10 @@ https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796#:~:text=L
 #### [User Management](https://docs.google.com/document/d/1Xg1H49d3E0VjJtmUomWug4yWlI2kzUspEGEEBkSfywo)
 #### [Online Shopping](https://docs.google.com/document/d/1NKHjFWchRzAonoBwkz0PycrGH3khHaFTsZJmRj69fFY)
 #### [Social Community](https://drive.google.com/drive/u/1/folders/1snHZaKji4ixf7gSCwIQyCEtJ-vlHVHTA)
+<!--
 #### [Gaming Activities](https://drive.google.com/drive/u/1/folders/1zdTlF_fh4CgQpW8XZkUE_aZkFhHS_hR5)
 #### [Stock Investment](https://drive.google.com/drive/u/1/folders/1IVdhNAhAoHfn7pfyqG_KtoeSfFTlISRG)
+-->
 
 ## Contact
 
