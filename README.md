@@ -7,6 +7,14 @@ https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796#:~:text=L
   My name is Khaled and I'm a Software Automation Tester with expertise in Java, Selenium, Appium, TestNG, Cucumber, Postman, Git, GitHub, and Jenkins. I have a passion for ensuring software quality through robust automation frameworks and continuous integration practices.
 </p>
 
+## Table of content
+- [Skills](https://github.com/KhaledAMRS#skills)
+
+
+
+
+
+
 ## Skills
 
 ![Java](https://skillicons.dev/icons?i=java&theme=light) ![Selenium](https://skillicons.dev/icons?i=selenium&theme=light) <img src="./.github/appium.svg#appium" width="50" height="50">  <!-- https://iconduck.com/icons/27036/appium -->  <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" width="50" height="50">  <img src="./.github/cucumber.svg#cucumber" width="50" height="50">  <!-- https://iconduck.com/icons/94191/cucumber --> ![Postman](https://skillicons.dev/icons?i=postman&theme=light) ![git](https://skillicons.dev/icons?i=git&theme=light) ![jenkins](https://skillicons.dev/icons?i=jenkins&theme=light) <img src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" width="80" height="80">
