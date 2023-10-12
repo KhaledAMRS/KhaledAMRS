@@ -9,7 +9,7 @@ https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796#:~:text=L
 
 ## Table of content
 - [Skills](https://github.com/KhaledAMRS#skills)
-
+- [RoadMaps](https://github.com/KhaledAMRS#Roadmaps)
 
 
 
@@ -18,6 +18,9 @@ https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796#:~:text=L
 ## Skills
 
 ![Java](https://skillicons.dev/icons?i=java&theme=light) ![Selenium](https://skillicons.dev/icons?i=selenium&theme=light) <img src="./.github/appium.svg#appium" width="50" height="50">  <!-- https://iconduck.com/icons/27036/appium -->  <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" width="50" height="50">  <img src="./.github/cucumber.svg#cucumber" width="50" height="50">  <!-- https://iconduck.com/icons/94191/cucumber --> ![Postman](https://skillicons.dev/icons?i=postman&theme=light) ![git](https://skillicons.dev/icons?i=git&theme=light) ![jenkins](https://skillicons.dev/icons?i=jenkins&theme=light) <img src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" width="80" height="80">
+
+## Roadmaps
+
 
 ## Automation Projects
 ### WebUI Automation Projects using Selenium + Java | Beginner level
@@ -37,8 +40,8 @@ https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796#:~:text=L
 
 ## Manual Projects
 #### [User Management](https://docs.google.com/document/d/1Xg1H49d3E0VjJtmUomWug4yWlI2kzUspEGEEBkSfywo)
-#### ![Online Shopping](https://docs.google.com/document/d/1NKHjFWchRzAonoBwkz0PycrGH3khHaFTsZJmRj69fFY)
-#### ![Social Community](https://drive.google.com/drive/u/1/folders/1snHZaKji4ixf7gSCwIQyCEtJ-vlHVHTA)
+#### [Online Shopping](https://docs.google.com/document/d/1NKHjFWchRzAonoBwkz0PycrGH3khHaFTsZJmRj69fFY)
+#### [Social Community](https://drive.google.com/drive/u/1/folders/1snHZaKji4ixf7gSCwIQyCEtJ-vlHVHTA)
 <!--
 #### [Gaming Activities](https://drive.google.com/drive/u/1/folders/1zdTlF_fh4CgQpW8XZkUE_aZkFhHS_hR5)
 #### [Stock Investment](https://drive.google.com/drive/u/1/folders/1IVdhNAhAoHfn7pfyqG_KtoeSfFTlISRG)
