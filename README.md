@@ -39,9 +39,9 @@ https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796#:~:text=L
 -->
 
 ## Manual Projects
-#### [User Management](https://docs.google.com/document/d/1Xg1H49d3E0VjJtmUomWug4yWlI2kzUspEGEEBkSfywo)
-#### [Online Shopping](https://docs.google.com/document/d/1NKHjFWchRzAonoBwkz0PycrGH3khHaFTsZJmRj69fFY)
-#### [Social Community](https://drive.google.com/drive/u/1/folders/1snHZaKji4ixf7gSCwIQyCEtJ-vlHVHTA)
+#### ![User Management](https://docs.google.com/document/d/1v7lzNYpB-RQLKhz3zL7ffkL1DaJRsP5glyutHj9TeKQ)
+#### ![Online Shopping](https://docs.google.com/document/d/1bnkt6nsOqVAAzDNlWTORqi54kjB5ef5kHL1rW3unC-8)
+#### ![Social Community](https://docs.google.com/document/d/1SmUKFyEOqBHH5o8axMpMmydJGLmpCgMAaT3Hl2qdK2Q)
 <!--
 #### [Gaming Activities](https://drive.google.com/drive/u/1/folders/1zdTlF_fh4CgQpW8XZkUE_aZkFhHS_hR5)
 #### [Stock Investment](https://drive.google.com/drive/u/1/folders/1IVdhNAhAoHfn7pfyqG_KtoeSfFTlISRG)
