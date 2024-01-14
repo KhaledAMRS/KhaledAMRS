@@ -11,7 +11,8 @@ https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796#:~:text=L
 - [Tools](https://github.com/KhaledAMRS#Tools)
 - [Automation Projects | Java + Appium](https://github.com/KhaledAMRS#Automation%20Projects%20%7C%20Java%20%2B%20Appium)
 - [Manual Testing Projects](https://github.com/KhaledAMRS#Manual%20Testing%20Projects)
-
+<br />
+<br />
 
 ## Tools
 
