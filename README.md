@@ -20,7 +20,7 @@ https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796#:~:text=L
 <br />
 
 ## Automation Projects | Java + Appium
-#### [Appium_Java_Template1](https://github.com/KhaledAMRS/Appium_Java_Template1)
+#### [Appium_Java_Template1](https://github.com/KhaledAMRS/Appium_Java_Template1/blob/master/readme.md)
 <br />
 <br />
 
