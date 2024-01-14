@@ -4,7 +4,7 @@ https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796#:~:text=L
 
 <p align="center">
   Hi there 🙌! <br>
-  My name is Khaled and I'm a Software Automation Tester with expertise in Java, Selenium, Appium, TestNG, Cucumber, Postman, Git, GitHub, and Jenkins. I have a passion for ensuring software quality through robust automation frameworks and continuous integration practices.
+  My name is Khaled and I'm a Software Automation Tester with expertise in Java, Selenium, Appium, TestNG, Cucumber, Postman, Git, and Jenkins. I have a passion for ensuring software quality through robust automation frameworks and continuous integration practices.
 </p>
 
 ## Table of contents
@@ -20,7 +20,7 @@ https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796#:~:text=L
 <br />
 
 ## Automation Projects | Java + Appium
-#### [Appium_Java_Template1](https://github.com/KhaledAMRS/Appium_Java_Template1)** 
+#### [Appium_Java_Template1](https://github.com/KhaledAMRS/Appium_Java_Template1)
 <br />
 <br />
 
