@@ -7,10 +7,10 @@ https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796#:~:text=L
   My name is Khaled and I'm a Software Automation Tester with expertise in Java, Selenium, Appium, TestNG, Cucumber, Postman, Git, GitHub, and Jenkins. I have a passion for ensuring software quality through robust automation frameworks and continuous integration practices.
 </p>
 
-## Table of content
+## Table of contents
 - [Tools](https://github.com/KhaledAMRS#Tools)
-- [Automation Projects](https://github.com/KhaledAMRS#Automation Projects)
-
+- [Automation Projects | Java + Appium](https://github.com/KhaledAMRS#Automation%20Projects%20%7C%20Java%20%2B%20Appium)
+- [Manual Testing Projects](https://github.com/KhaledAMRS#Manual%20Testing%20Projects)
 
 
 
@@ -22,7 +22,13 @@ https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796#:~:text=L
 ![Java](https://skillicons.dev/icons?i=java&theme=light) ![Selenium](https://skillicons.dev/icons?i=selenium&theme=light) <img src="./.github/appium.svg#appium" width="50" height="50">  <!-- https://iconduck.com/icons/27036/appium -->  <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" width="50" height="50">  <img src="./.github/cucumber.svg#cucumber" width="50" height="50">  <!-- https://iconduck.com/icons/94191/cucumber --> ![Postman](https://skillicons.dev/icons?i=postman&theme=light) ![git](https://skillicons.dev/icons?i=git&theme=light) ![jenkins](https://skillicons.dev/icons?i=jenkins&theme=light) <img src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" width="80" height="80">
 
 
-## Automation Projects
+## Automation Projects | Java + Appium
+
+**[Appium_Java_Template1](https://github.com/KhaledAMRS/Appium_Java_Template1)** 
+
+
+
+<!--
 ### WebUI Automation Projects using Selenium + Java | Beginner level
 **[Ch1_Java_Principles](https://github.com/KhaledAMRS/A_Java_Principles)** If you have no prior programming experience, this project will provide you a beginner-friendly for Java fundamentals such as: packages, classes, data types and variables, methods, objects, constructor, access modifiers.
   
@@ -34,11 +40,11 @@ https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796#:~:text=L
 
 **[Ch5_Selenium_Commands](https://github.com/KhaledAMRS/E_Selenium_Commands)** Inside view on Selenium commands: Browser navigation | get browser information | interacting with WebElement | get WebElement Information | get WebElement status | static and dynamic dropdown list | what's By, WebElement, List<WebElement> | findElement and findElements.
 
-<!--
+
 **[Ch6_Selenium_Commands_Part_2](https://github.com/KhaledAMRS/F_Selenium_Commands_Part_2)** Continue learning Selenium commands: Difference between implicitly & explicitly | mouse hover action | handle multiple windows | difference between quit and close command.
 -->
 
-## 2- Manual Projects
+## Manual Testing Projects
 #### [User Management](https://docs.google.com/document/d/1v7lzNYpB-RQLKhz3zL7ffkL1DaJRsP5glyutHj9TeKQ)
 #### [Online Shopping](https://docs.google.com/document/d/1bnkt6nsOqVAAzDNlWTORqi54kjB5ef5kHL1rW3unC-8)
 #### [Social Community](https://docs.google.com/document/d/1SmUKFyEOqBHH5o8axMpMmydJGLmpCgMAaT3Hl2qdK2Q)
