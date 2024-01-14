@@ -13,16 +13,12 @@ https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796#:~:text=L
 - [Manual Testing Projects](https://github.com/KhaledAMRS#Manual%20Testing%20Projects)
 
 
-
-
-
-
-## Tools
+### Tools
 
 ![Java](https://skillicons.dev/icons?i=java&theme=light) ![Selenium](https://skillicons.dev/icons?i=selenium&theme=light) <img src="./.github/appium.svg#appium" width="50" height="50">  <!-- https://iconduck.com/icons/27036/appium -->  <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" width="50" height="50">  <img src="./.github/cucumber.svg#cucumber" width="50" height="50">  <!-- https://iconduck.com/icons/94191/cucumber --> ![Postman](https://skillicons.dev/icons?i=postman&theme=light) ![git](https://skillicons.dev/icons?i=git&theme=light) ![jenkins](https://skillicons.dev/icons?i=jenkins&theme=light) <img src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" width="80" height="80">
 
 
-## Automation Projects | Java + Appium
+### Automation Projects | Java + Appium
 
 **[Appium_Java_Template1](https://github.com/KhaledAMRS/Appium_Java_Template1)** 
 
@@ -44,7 +40,7 @@ https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796#:~:text=L
 **[Ch6_Selenium_Commands_Part_2](https://github.com/KhaledAMRS/F_Selenium_Commands_Part_2)** Continue learning Selenium commands: Difference between implicitly & explicitly | mouse hover action | handle multiple windows | difference between quit and close command.
 -->
 
-## Manual Testing Projects
+### Manual Testing Projects
 #### [User Management](https://docs.google.com/document/d/1v7lzNYpB-RQLKhz3zL7ffkL1DaJRsP5glyutHj9TeKQ)
 #### [Online Shopping](https://docs.google.com/document/d/1bnkt6nsOqVAAzDNlWTORqi54kjB5ef5kHL1rW3unC-8)
 #### [Social Community](https://docs.google.com/document/d/1SmUKFyEOqBHH5o8axMpMmydJGLmpCgMAaT3Hl2qdK2Q)
