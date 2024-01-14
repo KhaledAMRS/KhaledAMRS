@@ -10,7 +10,7 @@ https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796#:~:text=L
 ## Table of contents
 - [Tools](https://github.com/KhaledAMRS#Tools)
 - [Automation Projects | Java + Appium](https://github.com/KhaledAMRS#automation-projects--java--appium)
-- [Manual Testing Projects](https://github.com/KhaledAMRS#manual--testing--projects)
+- [Manual Testing Projects](https://github.com/KhaledAMRS#manual-testing-projects)
 <br />
 <br />
 
