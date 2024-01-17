@@ -9,7 +9,7 @@ https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796#:~:text=L
 
 ## Table of contents
 - [Tools](https://github.com/KhaledAMRS#Tools)
-- [Improve your programming knowledge](https://github.com/KhaledAMRS#improve-your--programming--knowledge)
+- [Improve your programming knowledge](https://github.com/KhaledAMRS#improve-your-programming-knowledge)
 - [Automation Projects | Java + Appium](https://github.com/KhaledAMRS#automation-projects--java--appium)
 - [Manual Testing Projects](https://github.com/KhaledAMRS#manual-testing-projects)
 <br />
