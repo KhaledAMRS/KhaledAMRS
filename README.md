@@ -32,22 +32,11 @@ https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796#:~:text=L
 <br />
 
 
+## Automation Projects | Java + RestAssured
 
-<!--
-### WebUI Automation Projects using Selenium + Java | Beginner level
-**[Ch1_Java_Principles](https://github.com/KhaledAMRS/A_Java_Principles)** If you have no prior programming experience, this project will provide you a beginner-friendly for Java fundamentals such as: packages, classes, data types and variables, methods, objects, constructor, access modifiers.
-  
-**[Ch2_Selenium_First_Script](https://github.com/KhaledAMRS/B_First_Script_Selenium)** Write your first simple Selenium script to launch different browsers using setProperty() method.
+<br />
+<br />
 
-**[Ch3_Selenium_Locators](https://github.com/KhaledAMRS/C_Selenium_Locators)** How to find web elements using Selenium locators such as id, name, className, cssSelector, Xpath.
-
-**[Ch4_Framework_TestNG](https://github.com/KhaledAMRS/D_Assertion_Framework_TestNG)** Learn TestNG annotations @BeforeMethod, @AfterMethod, @Test, etc which will offer  test cases execution independently. Adding hard and soft TestNG assertions so that the actual result will be compared with the desired expected result then determine whether test case passes or fails.
-
-**[Ch5_Selenium_Commands](https://github.com/KhaledAMRS/E_Selenium_Commands)** Inside view on Selenium commands: Browser navigation | get browser information | interacting with WebElement | get WebElement Information | get WebElement status | static and dynamic dropdown list | what's By, WebElement, List<WebElement> | findElement and findElements.
-
-
-**[Ch6_Selenium_Commands_Part_2](https://github.com/KhaledAMRS/F_Selenium_Commands_Part_2)** Continue learning Selenium commands: Difference between implicitly & explicitly | mouse hover action | handle multiple windows | difference between quit and close command.
--->
 
 ## Manual Testing Projects
 #### [User Management](https://docs.google.com/document/d/1v7lzNYpB-RQLKhz3zL7ffkL1DaJRsP5glyutHj9TeKQ)
