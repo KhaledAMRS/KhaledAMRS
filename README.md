@@ -9,8 +9,9 @@ https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796#:~:text=L
 
 ## Table of contents
 - [Tools](https://github.com/KhaledAMRS#Tools)
-- [Improve your programming knowledge](https://github.com/KhaledAMRS#improve-your-programming-knowledge)
+- [Strengthen your coding skills](https://github.com/KhaledAMRS#improve-your-programming-knowledge)
 - [Automation Projects | Java + Appium](https://github.com/KhaledAMRS#automation-projects--java--appium)
+- [Automation Projects | Java + RestAssured](https://github.com/KhaledAMRS#automation-projects--java--RestAssured)
 - [Manual Testing Projects](https://github.com/KhaledAMRS#manual-testing-projects)
 <br />
 <br />
@@ -21,6 +22,9 @@ https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796#:~:text=L
 <br />
 
 ## Improve your programming knowledge
+![image](https://github.com/KhaledAMRS/KhaledAMRS/assets/37943776/124504d1-fa74-4754-bfad-e06659499931)
+<br />
+<br />
 
 ## Automation Projects | Java + Appium
 #### [Appium_Java_Template1](https://github.com/KhaledAMRS/Appium_Java_Template1/blob/master/readme.md)
