@@ -27,6 +27,7 @@ https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796#:~:text=L
 
 ## Automation Projects | Java + RestAssured
 #### [RestAssuredJava_Stage1](https://github.com/KhaledAMRS/RestAssuredJava_Stage1/blob/master/readme.md)
+> **Keywords:** endPoints, Routes, Payload(pojo), Hooks, RestAPIHelper, ConfigurationReader
 <br>
 <br>
 
