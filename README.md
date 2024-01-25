@@ -26,14 +26,18 @@ https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796#:~:text=L
 <br>
 
 ## Automation Projects | Java + RestAssured
-#### [RestAssuredJava_Stage1](https://github.com/KhaledAMRS/RestAssuredJava_Stage1/blob/master/readme.md)
-> **Keywords:** endPoints, Routes, Payload(pojo), Hooks, RestAPIHelper, ConfigurationReader
+### [RestAssuredJava_Stage1](https://github.com/KhaledAMRS/RestAssuredJava_Stage1/blob/master/readme.md)
+- Routes class in RESTAssured framework: It provides URL paths for API endpoints such as authToken, user accounts, etc.
+- How to create Payload(pojo - Plain Old Java Object) classes of a JSON object payload.
+  In the upcoming stages, we will learn JSON array payload, and nested JSON payload.
+- RestAPIHelper class: Building CRUD operations -> postAPIRequest, getAPIRequest, putAPIRequest, deleteAPIRequest.
+
 <br>
 <br>
 
 
 ## Automation Projects | Java + Appium
-#### [Appium_Java_Template1](https://github.com/KhaledAMRS/Appium_Java_Template1/blob/master/readme.md)
+### [Appium_Java_Template1](https://github.com/KhaledAMRS/Appium_Java_Template1/blob/master/readme.md)
 <br>
 <br>
 
