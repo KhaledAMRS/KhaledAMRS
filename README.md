@@ -22,6 +22,7 @@ https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796#:~:text=L
 
 ## Strengthen your coding skills
 ### [OOP_Inheritance](https://github.com/KhaledAMRS/OOP_Inheritance/blob/master/readme.md)
+- The mechanism in Java by which one class acquires the properties (instance variables) and functionalities of another class is known as Inheritance.
 
 <br>
 <br>
