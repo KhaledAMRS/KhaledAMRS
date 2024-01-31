@@ -23,6 +23,8 @@ https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796#:~:text=L
 - The mechanism in Java by which one class acquires the properties (instance variables) and functionalities of another class is known as Inheritance.
 
 ### [OOP_Polymorphism_Overloading](https://github.com/KhaledAMRS/OOP_Polymorphism_Overloading/blob/master/readme.md)
+- Overloading: The same method can have multiple definitions. it takes different parameters and/or they have different return types.
+
 
 <br><br>
 
