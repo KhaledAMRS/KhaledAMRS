@@ -21,7 +21,8 @@ https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796#:~:text=L
 <br>
 
 ## Strengthen your coding skills
-![image](https://github.com/KhaledAMRS/KhaledAMRS/assets/37943776/124504d1-fa74-4754-bfad-e06659499931)
+### [OOP_Inheritance](https://github.com/KhaledAMRS/OOP_Inheritance/blob/master/readme.md)
+
 <br>
 <br>
 
