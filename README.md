@@ -34,6 +34,10 @@ https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796#:~:text=L
 ### [Send requests | basePath and pathParams](https://github.com/KhaledAMRS/RestAssured_pathParams)
 - How to use basePath and pathParams
 
+### [Send requests | Nested Object and Array](https://github.com/KhaledAMRS/POJO_NestedObjects_Arrays)
+- How To Create Nested JSON Object & Array Payload
+
+
 
 <br><br>
 
