@@ -31,7 +31,7 @@ https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796#:~:text=L
 
 
 ## Rest assured + Java tutorial
-### [How to use basePath and pathParams](https://github.com/KhaledAMRS/OOP_Inheritance/blob/master/readme.md)
+### [How to use basePath and pathParams](https://github.com/KhaledAMRS/RestAssured_pathParams)
 - How to use basePath and pathParams
 
 
