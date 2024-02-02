@@ -10,8 +10,8 @@ https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796#:~:text=L
 ## Table of contents
 - [Tools](https://github.com/KhaledAMRS#Tools)
 - [Strengthen your coding skills projects](https://github.com/KhaledAMRS#strengthen-your-coding-skills)
-- [Rest-assured + Java | lessons](https://github.com/KhaledAMRS#rest-assured--java-tutorial)
-- [Rest-assured + Java | End2End Projects](https://github.com/KhaledAMRS#automation-projects--java--RestAssure)
+- [Rest-assured + Java | lessons](https://github.com/KhaledAMRS#rest-assured--java--lessons)
+- [Rest-assured + Java | End2End Projects](https://github.com/KhaledAMRS#rest-assured--java--end2end-projects)
 - [Manual Testing Projects](https://github.com/KhaledAMRS#manual-testing-projects)
 <br><br>
 
