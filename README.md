@@ -41,7 +41,7 @@ https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796#:~:text=L
 
 
 ## Rest-assured + Java | End2End Projects
-### [RestAssuredJava_Stage1](https://github.com/KhaledAMRS/RestAssuredJava_Stage1/blob/master/readme.md)
+### [RestAssuredJava_Template1](https://github.com/KhaledAMRS/RestAssuredJava_Stage1/blob/master/readme.md)
 - Routes class in RESTAssured framework: It provides URL paths for API endpoints such as authToken, user accounts, etc.
 - How to create Payload(pojo - Plain Old Java Object) classes of a JSON object payload.
   In the upcoming stages, we will learn JSON array payload, and nested JSON payload.
