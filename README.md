@@ -46,7 +46,11 @@ https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796#:~:text=L
 - How to create Payload(pojo - Plain Old Java Object) classes of a JSON object payload.
   In the upcoming stages, we will learn JSON array payload, and nested JSON payload.
 - RestAPIHelper class: Building CRUD operations -> postAPIRequest, getAPIRequest, putAPIRequest, deleteAPIRequest.
+<br><br>
 
+### [RestAssuredJava_Template2](https://github.com/KhaledAMRS/RestAssured_Template2/blob/master/readme.md)
+- How to use RandomDataGenerator
+- How to configure env using System.getProperty("env") & run the project using mvn commands
 <br><br>
 
 ## Automation Projects | Java + Appium
