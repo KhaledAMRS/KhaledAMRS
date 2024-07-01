@@ -1,6 +1,7 @@
 <!-- markdown language readme.md
-https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796#:~:text=Line%20Breaks,more%20spaces%2C%20and%20hit%20enter.&text=Sorry%2C%20they%20won't%20allow,won't%20work%20for%20you. -->
+https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796#:~:text=Line%20Breaks,more%20spaces%2C%20and%20hit%20enter.&text=Sorry%2C%20they%20won't%20allow,won't%20work%20for%20you. 
 <h1 align="center">Software Automation Tester</h1>
+-->
 
 <p align="center">
   Hi there 🙌! <br>
