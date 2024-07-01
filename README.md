@@ -71,7 +71,6 @@ what's fintech field
 
 - Email: khaled.ramadan.qa@gmail.com
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/khaled-ashraf-ramadan/)
-- Blogger: [My Blogger](https://qa-snacks.blogspot.com/)
 
 Feel free to reach out to me if you have any questions or collaboration opportunities. I'm always eager to connect with fellow professionals in the industry!
 
