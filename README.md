@@ -1,11 +1,9 @@
-<!-- markdown language readme.md
-https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796#:~:text=Line%20Breaks,more%20spaces%2C%20and%20hit%20enter.&text=Sorry%2C%20they%20won't%20allow,won't%20work%20for%20you. 
-<h1 align="center">Software Automation Tester</h1>
--->
-
-<p align="center">
-  Hi there 🙌! <br>
-  My name is Khaled and I'm a Software Automation Tester with expertise in Java, Selenium, Appium, TestNG, Cucumber, Postman, Git, and Jenkins. I have a passion for ensuring software quality through robust automation frameworks and continuous integration practices.
+<p align="left">
+<br>
+I am a QA enthusiast who has an obsession with uplifting people's quality of life and empowering their businesses.
+I have over 7 years of experience spanning various domains, including online shopping (e-commerce), social community platforms, and stock investment applications.
+In addition to my hands-on testing experience, I'm also an automation testing trainer.
+I contributed to online learning programs sponsored by the Egyptian Ministry of Information Technology and Udacity, by conducting a comprehensive curriculum of videos to guide new QA learners in starting their automation testing journey using frameworks such as Selenium, TestNG, Cucumber, and RestAssured.
 </p>
 
 ## Table of contents
@@ -62,11 +60,7 @@ https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796#:~:text=L
 #### [User Management](https://docs.google.com/document/d/1v7lzNYpB-RQLKhz3zL7ffkL1DaJRsP5glyutHj9TeKQ)
 #### [Online Shopping](https://docs.google.com/document/d/1bnkt6nsOqVAAzDNlWTORqi54kjB5ef5kHL1rW3unC-8)
 #### [Social Community](https://docs.google.com/document/d/1SmUKFyEOqBHH5o8axMpMmydJGLmpCgMAaT3Hl2qdK2Q)
-<!--
-#### [Gaming Activities](https://drive.google.com/drive/u/1/folders/1zdTlF_fh4CgQpW8XZkUE_aZkFhHS_hR5)
-#### [Stock Investment](https://drive.google.com/drive/u/1/folders/1IVdhNAhAoHfn7pfyqG_KtoeSfFTlISRG)
-what's fintech field
--->
+
 <br><br>
 ## Contact
 
@@ -74,29 +68,3 @@ what's fintech field
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/khaled-ashraf-ramadan/)
 
 Feel free to reach out to me if you have any questions or collaboration opportunities. I'm always eager to connect with fellow professionals in the industry!
-
-<!--
-**KhaledAMRS/KhaledAMRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-Add these Achievements to your Resume later
-How many business modules & features are tested: .
-How many release are managed: .
-Automation projects:
-API projects:
-
-github portfolio
-https://khaledamrs.github.io/
-
--->
